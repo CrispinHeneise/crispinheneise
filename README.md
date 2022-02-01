@@ -1,6 +1,6 @@
 ## Ryan Crispin Heneise
 
-### Ruby on Rails developer and startup founder
+### Senior full-stack developer and startup founder
 
 *Austin, Texas Metropolitan Area*
 
