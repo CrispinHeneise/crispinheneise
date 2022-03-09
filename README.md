@@ -1,4 +1,6 @@
-## Ryan Crispin Heneise
+## Hi 👋 I'm Ryan
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Senior full-stack developer and startup founder
 
